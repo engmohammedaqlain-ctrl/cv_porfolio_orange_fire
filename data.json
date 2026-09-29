@@ -1,0 +1,94 @@
+{
+  "experience": [],
+  "profile": {
+    "cta_primary": "Download CV",
+    "cta_secondary": "Contact Me",
+    "email": "alaa603.aa@gmail.com",
+    "location": "Gaza, Palestine",
+    "name": "Alaa Salem Mahmoud Abu Rabee",
+    "phone": "0597603103",
+    "roles": [
+      "Psychosocial Support Case Manager",
+      "GBV & Data Management Specialist"
+    ],
+    "summary": "Highly skilled Psychosocial Support professional with 3+ years driving impactful humanitarian programs through GBV-sensitive Case Management and data excellence. Expertly managed over 100 complex GBV cases, delivering 150+ critical support sessions and achieving a 90% positive resolution rate. Achieved 95% data accuracy in M&E systems, developed 50+ individualized care plans, and established 15+ robust referral networks, significantly improving service access. Proven leader coordinating multidisciplinary teams to achieve significant positive outcomes in challenging environments."
+  },
+  "skills": [
+    {
+      "category": "Domain Expertise",
+      "items": [
+        "Case Management (100+ GBV-sensitive cases)",
+        "PSS (150+ support sessions)",
+        "Data Management (95% accuracy)",
+        "M&E",
+        "Referral Networks (15+ partners)",
+        "Crisis Intervention",
+        "Child Protection",
+        "Humanitarian Aid",
+        "Activity Facilitation (30+ programs)",
+        "Needs Assessment"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "items": [
+        "Microsoft Office Suite (Advanced proficiency)",
+        "Data Management (Entry, Analysis, Database)",
+        "Digital Documentation",
+        "Report Writing (20+ reports)",
+        "Internet Research",
+        "Email Communication"
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "items": [
+        "Empathetic Communication",
+        "Problem-Solving (complex cases)",
+        "Teamwork (multidisciplinary)",
+        "Adaptability (challenging environments)",
+        "Ethical Conduct (100% adherence)",
+        "Conflict Resolution",
+        "Cultural Sensitivity",
+        "Time Management",
+        "Active Listening"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "label": "Years Experience",
+      "suffix": "+",
+      "value": 3
+    },
+    {
+      "label": "GBV Cases Managed",
+      "suffix": "+",
+      "value": 100
+    },
+    {
+      "label": "Resolution Rate",
+      "suffix": "%",
+      "value": 90
+    },
+    {
+      "label": "Data Accuracy",
+      "suffix": "%",
+      "value": 95
+    }
+  ],
+  "volunteering": [
+    {
+      "date": "Gaza, Palestine | 2021 – 2022",
+      "desc": "Managed and provided support for 100+ complex GBV and psychosocial cases, delivering 150+ critical support sessions and comprehensive psychological first aid to vulnerable beneficiaries, achieving a 90% positive resolution rate.\nDeveloped and executed 50+ individualized care plans, collaborating with multidisciplinary teams to ensure tailored and timely interventions, resulting in measurable improvements for clients.\nMaintained meticulous documentation for 100+ case interventions, achieving 95% data accuracy, which enhanced M&E and reporting systems and improved data-driven decision making by 20%.\nStreamlined 30+ critical case referrals to specialized services by establishing 15+ partner networks, ensuring seamless continuity of care and reducing referral wait times by 15%.\nAnalyzed data and authored 20+ detailed progress reports, directly informing strategic adjustments and enhancing project impact assessment, contributing to a 10% increase in program effectiveness.",
+      "org": "Abu Shabak Psychological Clinic",
+      "role": "Psychosocial Support Volunteer"
+    },
+    {
+      "date": "Gaza, Palestine | 2020 – 2021",
+      "desc": "Guided 80+ students with tailored psychological and educational support, boosting academic success and fostering overall well-being by 15% through individualized strategies.\nResolved 25+ behavioral and educational challenges for students, significantly enhancing a positive and supportive learning environment and reducing disciplinary incidents by 10%.\nProvided targeted psychological guidance to 90% of caseload, improving student self-confidence and academic engagement and contributing to a 5% increase in attendance.\nCollaborated with 15+ teaching staff and parents to establish cohesive support systems, elevating student development and performance and improving overall academic outcomes by 8%.\nDirected 10+ successful educational and awareness activities, engaging 200+ students and staff to foster an inclusive school culture and improve communication skills among participants.",
+      "org": "Shadia Abu Ghazaleh School",
+      "role": "Educational Counselor Volunteer"
+    }
+  ]
+}
